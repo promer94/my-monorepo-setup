@@ -28,7 +28,6 @@
     "react": "^17.0.2"
   },
   "devDependencies": {
-    "config": "workspace:*",
     "tsconfig": "workspace:*"
   }
 }
