@@ -1,0 +1,17 @@
+{
+  "extends": "tsconfig/react-library.json",
+  "compilerOptions": {
+    "target": "es2022",
+    "module": "esnext",
+    "strict": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "skipLibCheck": true,
+    "noUnusedLocals": true,
+    "noImplicitAny": true,
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "jsx": "preserve"
+  },
+  "include": ["src"]
+}
